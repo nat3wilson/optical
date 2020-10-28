@@ -1,0 +1,68 @@
+.sm-body{
+  animation: black-to-white 0.5s infinite;
+}
+
+
+
+h1{
+position: fixed;
+top: 20px;
+left: 450px;
+font-size: 100px;
+font-family: lemon milk;
+
+
+}
+h2{
+position: fixed;
+  left: 450px;
+  top: 250px;
+  font-size: 100px;
+  font-family: lemon milk;
+  font
+
+}
+h3{
+position: fixed;
+  left: 450px;
+  top: 480px;
+  font-size: 100px;
+  font-family: lemon milk;
+
+}
+@keyframes black-to-white {
+  0%   {
+    background-color: black;
+  }
+  1%{
+    background-color: black;
+  }
+  50%{
+    background-color: white;
+  }
+  99%{
+    background-color: white;
+  }
+  100%{
+    background-color:black;
+  }
+}
+.im-image{
+
+
+}
+.im-container{
+  position:absolute;
+  left: 485px;
+
+
+
+  top: 8px;
+}
+.im-container-1{
+  position:absolute;
+  left: 477px;
+
+
+  top: 0px;
+}
