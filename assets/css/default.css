@@ -1,0 +1,215 @@
+.square {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  position: absolute;
+  animation: black-to-white 4.75s infinite;
+}
+.square-1 {
+  height: 95%;
+  width: 95%;
+  top: 30px;
+  left: 40px;
+  background-color: white;
+  position: absolute;
+  animation: white-to-black 4.5s infinite;
+}
+.square-2 {
+  height: 90%;
+  width: 90%;
+  top: 50px;
+  left: 70px;
+  background-color: black;
+  position: absolute;
+  animation: black-to-whites 4.25s infinite;
+}
+.square-3 {
+  height: 85%;
+  width: 85%;
+  top: 70px;
+  left: 105px;
+  background-color: white;
+  position: absolute;
+  animation: white-to-black 4s infinite;
+}
+.square-4 {
+  height: 80%;
+  width: 80%;
+  top: 90px;
+  left: 140px;
+  background-color: black;
+  position: absolute;
+  animation: black-to-white 3.75s infinite;
+}
+.square-5 {
+  height: 75%;
+  width: 75%;
+  top: 110px;
+  left: 175px;
+  background-color: white;
+  position: absolute;
+  animation: white-to-black 3.5s infinite;
+
+}
+.square-6 {
+  height: 70%;
+  width: 70%;
+  top: 130px;
+  left: 210px;
+  background-color: black;
+  position: absolute;
+  animation: black-to-white 3.25s infinite;
+}
+.square-7 {
+  height: 65%;
+  width: 65%;
+  top: 150px;
+  left: 245px;
+  background-color: white;
+  position: absolute;
+  animation: white-to-black 3s infinite;
+}
+.square-8 {
+  height: 60%;
+  width: 60%;
+  top: 170px;
+  left: 280px;
+  background-color: black;
+  position: absolute;
+  animation: black-to-white 2.75s infinite;
+}
+.square-9 {
+  height: 55%;
+  width: 55%;
+  top: 190px;
+  left: 315px;
+  background-color: white;
+  position: absolute;
+  animation: white-to-black 2.5s infinite;
+}
+.square-10 {
+  height: 50%;
+  width: 50%;
+  top: 210px;
+  left: 350px;
+  background-color: black;
+  position: absolute;
+  animation: black-to-white 2.25s infinite;
+}
+.square-11 {
+  height: 45%;
+  width: 45%;
+  top: 230px;
+  left: 385px;
+  background-color: white;
+  position: absolute;
+  animation: white-to-black 2s infinite;
+}
+.square-12 {
+  height: 40%;
+  width: 40%;
+  top: 250px;
+  left: 420px;
+  background-color: black;
+  position: absolute;
+  animation: black-to-white 1.75s infinite;
+}
+.square-13 {
+  height: 35%;
+  width: 35%;
+  top: 270px;
+  left: 455px;
+  background-color: white;
+  position: absolute;
+  animation: white-to-black 1.5s infinite;
+}
+.square-14 {
+  height: 30%;
+  width: 30%;
+  top: 290px;
+  left: 490px;
+  background-color: black;
+  position: absolute;
+  animation: black-to-white 1.25s infinite;
+}
+.square-15 {
+  height: 25%;
+  width: 25%;
+  top: 310px;
+  left: 525px;
+  background-color: white;
+  position: absolute;
+  animation: white-to-black 1s infinite;
+}
+.square-16 {
+  height: 20%;
+  width: 20%;
+  top: 330px;
+  left: 560px;
+  background-color: black;
+  position: absolute;
+  animation: black-to-white 0.75s infinite;
+}
+.square-17 {
+  height: 15%;
+  width: 15%;
+  top: 350px;
+  left: 595px;
+  background-color: white;
+  position: absolute;
+  animation: white-to-black 0.75s infinite;
+}
+.square-18 {
+  height: 10%;
+  width: 10%;
+  top: 370px;
+  left: 630px;
+  background-color: black;
+  position: absolute;
+  animation: black-to-white 0.25s infinite;
+}
+.square-19 {
+  height: 5%;
+  width: 5%;
+  top: 390px;
+  left: 665px;
+  background-color: white;
+  position: absolute;
+
+}
+
+
+@keyframes black-to-white {
+  0%   {
+    background-color: black;
+  }
+  49%{
+    background-color: black;
+  }
+  50%{
+    background-color: white;
+  }
+  99%{
+    background-color: white;
+  }
+  100%{
+    background-color:black;
+  }
+}
+@keyframes white-to-black {
+  0%   {
+    background-color: white;
+  }
+  49%{
+    background-color: white;
+  }
+  50%{
+    background-color: black;
+  }
+  99%{
+    background-color: black;
+  }
+  100%{
+    background-color:white;
+  }
+}
