@@ -1,7 +1,10 @@
 .sm-body {
 background-color: black;
 }
-
+.im-container{
+  width: 1000px;
+  height: 30px;
+}
 h1{
 text-transform:
 font-family: helvetica;
@@ -11,6 +14,7 @@ right: -200px;
 font-size: 20px;
 color: white;
  }
+
  .sm-box--230{
    left: -114px;
    position: absolute;
@@ -127,7 +131,7 @@ color: white;
  }
  .sm-box--170{
    left: 48px;
-   position: absolute;
+   position: fixed
    top: -269.5px;
    width: 1250px;
    height: 1250px;
