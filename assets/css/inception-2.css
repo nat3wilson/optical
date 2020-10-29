@@ -11,10 +11,132 @@ right: -200px;
 font-size: 20px;
 color: white;
  }
-
+ .sm-box--230{
+   left: -114px;
+   position: absolute;
+   top: -431px;
+   width: 1550px;
+   height: 1550px;
+   border-radius: 0%;
+   animation: white-to-black 0.9s infinite;
+ }
+ .sm-box--225{
+   background-color: white;
+   left: -100.5px;
+   position: absolute;
+   top: -417.5px;
+   width: 1525px;
+   height: 1525px;
+   border-radius: 0%;
+   animation: black-to-white 1.8s infinite;
+ }
+ .sm-box--220{
+   left: -87px;
+   position: absolute;
+   top: -404px;
+   width: 1500px;
+   height: 1500px;
+   border-radius: 0%;
+   animation: white-to-black 1.3s infinite;
+ }
+ .sm-box--215{
+   background-color: white;
+   left: -73.5px;
+   position: absolute;
+   top: -390.5px;
+   width: 1475px;
+   height: 1475px;
+   border-radius: 0-%;
+   animation: black-to-white 3s infinite;
+ }
+ .sm-box--210{
+   left: -60px;
+   position: absolute;
+   top: -377.5px;
+   width: 1450px;
+   height: 1450px;
+   border-radius: 0%;
+   animation: white-to-black 1.1s infinite;
+ }
+ .sm-box--205{
+   background-color: white;
+   left: -46.5px;
+   position: absolute;
+   top: -364px;
+   width: 1425px;
+   height: 1425px;
+   border-radius: 0-%;
+   animation: black-to-white 1s infinite;
+ }
+ .sm-box--200{
+   left: -33px;
+   position: absolute;
+   top: -350.5px;
+   width: 1400px;
+   height: 1400px;
+   border-radius: 0%;
+   animation: white-to-black 2.6s infinite;
+ }
+ .sm-box--195{
+   background-color: white;
+   left: -19.5px;
+   position: absolute;
+   top: -337px;
+   width: 1375px;
+   height: 1375px;
+   border-radius: 0-%;
+   animation: black-to-white 0.6s infinite;
+ }
+ .sm-box--190{
+   left: -6px;
+   position: absolute;
+   top: -323.5px;
+   width: 1350px;
+   height: 1350px;
+   border-radius: 0%;
+   animation: white-to-black 1.3s infinite;
+ }
+ .sm-box--185{
+   background-color: white;
+   left: 7.5px;
+   position: absolute;
+   top: -310px;
+   width: 1325px;
+   height: 1325px;
+   border-radius: 0-%;
+   animation: black-to-white 2.2s infinite;
+ }
+ .sm-box--180{
+   left: 21px;
+   position: absolute;
+   top: -296.5px;
+   width: 1300px;
+   height: 1300px;
+   border-radius: 0%;
+   animation: white-to-black 3.5s infinite;
+ }
+ .sm-box--175{
+   background-color: white;
+   left: 34.5px;
+   position: absolute;
+   top: -283px;
+   width: 1275px;
+   height: 1275px;
+   border-radius: 0-%;
+   animation: black-to-white 1.2s infinite;
+ }
+ .sm-box--170{
+   left: 48px;
+   position: absolute;
+   top: -269.5px;
+   width: 1250px;
+   height: 1250px;
+   border-radius: 0%;
+   animation: white-to-black 0.9s infinite;
+ }
  .sm-box--165{
    background-color: white;
-   left: 49px;
+   left: 61.5px;
    position: absolute;
    top: -256px;
    width: 1225px;
@@ -23,7 +145,7 @@ color: white;
    animation: black-to-white 1.4s infinite;
  }
  .sm-box--160{
-   left: 62.5px;
+   left: 75px;
    position: absolute;
    top: -242.5px;
    width: 1200px;
@@ -33,16 +155,16 @@ color: white;
  }
  .sm-box--155{
    background-color: white;
-   left: 76px;
+   left: 88.5px;
    position: absolute;
    top: -229px;
    width: 1175px;
    height: 1175px;
    border-radius: 0-%;
-   animation: black-to-white 1.4s infinite;
+   animation: black-to-white 2.4s infinite;
  }
  .sm-box--150{
-   left: 89.5px;
+   left: 102px;
    position: absolute;
    top: -215.5px;
    width: 1150px;
@@ -52,7 +174,7 @@ color: white;
  }
  .sm-box--145{
    background-color: white;
-   left: 103px;
+   left: 115.5px;
    position: absolute;
    top: -202px;
    width: 1125px;
@@ -61,7 +183,7 @@ color: white;
    animation: black-to-white 1.0s infinite;
  }
  .sm-box--140{
-   left: 116.5px;
+   left: 129px;
    position: absolute;
    top: -188.5px;
    width: 1100px;
@@ -71,7 +193,7 @@ color: white;
  }
  .sm-box--135{
    background-color: white;
-   left: 130px;
+   left: 142.5px;
    position: absolute;
    top: -175px;
    width: 1075px;
@@ -80,7 +202,7 @@ color: white;
    animation: black-to-white 2.4s infinite;
  }
  .sm-box--130{
-   left: 143.5px;
+   left: 156px;
    position: absolute;
    top: -161.5px;
    width: 1050px;
@@ -90,16 +212,16 @@ color: white;
  }
  .sm-box--125{
    background-color: white;
-   left: 157px;
+   left: 169.5px;
    position: absolute;
    top: -148px;
    width: 1025px;
    height: 1025px;
    border-radius: 0%;
-   animation: black-to-white 2.1s infinite;
+   animation: black-to-white 1.8s infinite;
  }
  .sm-box--120{
-   left: 170.5px;
+   left: 183px;
    position: absolute;
    top: -134.5px;
    width: 1000px;
@@ -109,7 +231,7 @@ color: white;
  }
  .sm-box--115{
    background-color: white;
-   left: 184px;
+   left: 196.5px;
    position: absolute;
    top: -121px;
    width: 975px;
@@ -118,7 +240,7 @@ color: white;
    animation: black-to-white 3.4s infinite;
  }
  .sm-box--110{
-   left: 197.5px;
+   left: 210px;
    position: absolute;
    top: -107.5px;
    width: 950px;
@@ -128,7 +250,7 @@ color: white;
  }
  .sm-box--105{
    background-color: white;
-   left: 211px;
+   left: 223.5px;
    position: absolute;
    top: -94px;
    width: 925px;
@@ -137,7 +259,7 @@ color: white;
    animation: black-to-white 2s infinite;
  }
  .sm-box--100{
-   left: 224.5px;
+   left: 237px;
    position: absolute;
    top: -80.5px;
    width: 900px;
@@ -147,16 +269,16 @@ color: white;
  }
  .sm-box--95{
    background-color: white;
-   left: 238px;
+   left: 250.5px;
    position: absolute;
    top: -67px;
    width: 875px;
    height: 875px;
    border-radius: 0-%;
-   animation: black-to-white 1.6s infinite;
+   animation: black-to-white 3.6s infinite;
  }
  .sm-box--90{
-   left: 251.5px;
+   left: 264px;
    position: absolute;
    top: -53.5px;
    width: 850px;
@@ -166,16 +288,16 @@ color: white;
  }
  .sm-box--85{
    background-color: white;
-   left: 265px;
+   left: 277.5px;
    position: absolute;
    top: -40px;
    width: 825px;
    height: 825px;
    border-radius: 0-%;
-   animation: black-to-white 4.2s infinite;
+   animation: black-to-white 1.2s infinite;
  }
  .sm-box--80{
-   left: 278.5px;
+   left: 291px;
    position: absolute;
    top: -26.5px;
    width: 800px;
@@ -185,7 +307,7 @@ color: white;
  }
  .sm-box--75{
    background-color: white;
-   left: 292px;
+   left: 304.5px;
    position: absolute;
    top: -13px;
    width: 775px;
@@ -194,7 +316,7 @@ color: white;
    animation: black-to-white 2.8s infinite;
  }
  .sm-box--70{
-   left: 305.5px;
+   left: 318px;
    position: absolute;
    top: 0.5px;
    width: 750px;
@@ -204,7 +326,7 @@ color: white;
  }
  .sm-box--65{
    background-color: white;
-   left: 319px;
+   left: 331.5px;
    position: absolute;
    top: 14px;
    width: 725px;
@@ -213,7 +335,7 @@ color: white;
    animation: black-to-white 5.4s infinite;
  }
  .sm-box--60{
-   left: 332.5px;
+   left: 345px;
    position: absolute;
    top: 27.5px;
    width: 700px;
@@ -223,7 +345,7 @@ color: white;
  }
  .sm-box--55{
    background-color: white;
-   left: 346px;
+   left: 358.5px;
    position: absolute;
    top: 41px;
    width: 675px;
@@ -232,7 +354,7 @@ color: white;
    animation: black-to-white 4s infinite;
  }
  .sm-box--50{
-   left: 359.5px;
+   left: 372px;
    position: absolute;
    top: 54.5px;
    width: 650px;
@@ -242,7 +364,7 @@ color: white;
  }
  .sm-box--45{
    background-color: white;
-   left: 373px;
+   left: 385.5px;
    position: absolute;
    top: 68px;
    width: 625px;
@@ -251,7 +373,7 @@ color: white;
    animation: black-to-white 4.6s infinite;
  }
  .sm-box--40{
-   left: 386.5px;
+   left: 399px;
    position: absolute;
    top: 81.5px;
    width: 600px;
@@ -261,7 +383,7 @@ color: white;
  }
  .sm-box--35{
    background-color: white;
-   left: 400px;
+   left: 412.5px;
    position: absolute;
    top: 95px;
    width: 575px;
@@ -271,7 +393,7 @@ color: white;
  }
 
  .sm-box--30{
-   left: 413.5px;
+   left: 426px;
    position: absolute;
    top: 108.5px;
    width:550px;
@@ -281,7 +403,7 @@ color: white;
  }
  .sm-box--25{
    background-color: white;
-   left: 427px;
+   left: 439.5px;
    position: absolute;
    top: 122px;
    width: 525px;
@@ -292,7 +414,7 @@ color: white;
 
 
 .sm-box--1{
-  left: 440.5px;
+  left: 453px;
   position: absolute;
   top: 135.5px;
   width: 500px;
@@ -302,7 +424,7 @@ color: white;
 }
 .sm-box--2{
   background-color: black;
-  left: 454px;
+  left: 466.5px;
   position: absolute;
   top: 149px;
   width: 475px;
@@ -312,7 +434,7 @@ color: white;
 }
 .sm-box--3{
   background-color: white;
-  left: 467.5px;
+  left: 480px;
   position: absolute;
   top: 162.5px;
   width: 450px;
@@ -322,7 +444,7 @@ color: white;
 }
 .sm-box--4{
   background-color: black;
-  left: 481px;
+  left: 493.5px;
   position: absolute;
   top: 176px;
   width: 425px;
@@ -332,7 +454,7 @@ color: white;
 }
 .sm-box--5{
   background-color: white;
-  left: 494.5px;
+  left: 507px;
   position: absolute;
   top: 189.5px;
   width: 400px;
@@ -342,7 +464,7 @@ color: white;
 }
 .sm-box--6{
   background-color: black;
-  left: 508px;
+  left: 520.5px;
   position: absolute;
   top: 203px;
   width: 375px;
@@ -352,7 +474,7 @@ color: white;
 }
 .sm-box--7{
   background-color: white;
-  left: 521.5px;
+  left: 534px;
   position: absolute;
   top: 216.5px;
   width: 350px;
@@ -362,7 +484,7 @@ color: white;
 }
 .sm-box--8{
   background-color: black;
-  left: 535px;
+  left: 547.5px;
   position: absolute;
   top: 230px;
   width: 325px;
@@ -372,7 +494,7 @@ color: white;
 }
 .sm-box--9{
   background-color: white;
-  left: 548.5px;
+  left: 561px;
   position: absolute;
   top: 243.5px;
   width: 300px;
@@ -382,7 +504,7 @@ color: white;
 }
 .sm-box--10{
   background-color: black;
-  left: 562px;
+  left: 574.5px;
   position: absolute;
   top: 257px;
   width: 275px;
@@ -392,7 +514,7 @@ color: white;
 }
 .sm-box--11{
   background-color: white;
-  left: 575.5px;
+  left: 588px;
   position: absolute;
   top: 270.5px;
   width: 250px;
@@ -402,73 +524,73 @@ color: white;
 }
 .sm-box--12{
   background-color: black;
-  left: 589px;
+  left: 601.5px;
   position: absolute;
   top: 284px;
   width: 225px;
   height: 225px;
   border-radius: 35%;
-  animation: black-to-white 1.4s infinite;
+  animation: black-to-white 2s infinite;
 }
 .sm-box--13{
   background-color: white;
-  left: 602.5px;
+  left: 615px;
   position: absolute;
   top: 297.5px;
   width: 200px;
   height: 200px;
   border-radius: 37.5%;
-  animation: white-to-black 1.2s infinite;
+  animation: white-to-black 1.9s infinite;
 }
 .sm-box--14{
   background-color: black;
-  left: 616px;
+  left: 628.5px;
   position: absolute;
   top: 311px;
   width: 175px;
   height: 175px;
   border-radius: 40%;
-  animation: black-to-white 1s infinite;
+  animation: black-to-white 1.5s infinite;
 }
 .sm-box--15{
   background-color: white;
-  left: 629.5px;
+  left: 642px;
   position: absolute;
   top:  324.5px;
   width: 150px;
   height: 150px;
   border-radius: 42.5%;
-  animation: white-to-black 0.8s infinite;
+  animation: white-to-black 1.3s infinite;
 }
 .sm-box--16{
   background-color: white;
-  left: 643px;
+  left: 655.5px;
   position: absolute;
   top: 338px;
   width: 125px;
   height: 125px;
   border-radius: 45%;
-  animation: black-to-white 0.6s infinite;
+  animation: black-to-white 1s infinite;
 }
 .sm-box--17{
   background-color: white;
-  left:656.5px;
+  left:669px;
   position: absolute;
   top: 351.5px;
   width: 100px;
   height: 100px;
   border-radius: 47.5%;
-  animation: white-to-black 0.4s infinite;
+  animation: white-to-black 0.8s infinite;
 }
 .sm-box--18{
   background-color: black;
-left: 670px;
+left: 682.5px;
   position: absolute;
   top:365px;
   width: 75px;
   height: 75px;
   border-radius: 50%;
-  animation: black-to-white 0.1s infinite;
+  animation: black-to-white 0.5s infinite;
 }
 
 @keyframes black-to-white {
